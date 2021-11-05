@@ -24443,10 +24443,12 @@ section.ui-block-25 {
 
 .ui-block-14.client-sec .partners-slider{
     margin-top: 6rem;
+    margin-bottom: 6rem;
 }
 
 .ui-block-14.client-sec .partners-slider .logo-item{
     text-align: center;
+    padding: 10px 0;
 }
 
 .ui-block-14.client-sec .partners-slider .logo-item img{

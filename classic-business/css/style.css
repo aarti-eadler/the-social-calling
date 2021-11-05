@@ -404,17 +404,17 @@ a {
 }
 
 .navbar .social-icons ul li a:hover {
-  background-color: #fff;
+  background-color: transparent;
   transition: .3s ease;
 }
 
 .navbar .social-icons ul li a {
-  border-radius: 50%;
+  /* border-radius: 50%; */
   color: #fff;
   height: 35px;
   line-height: 37px;
   width: 35px;
-  border: 1px solid #fff;
+  /* border: 1px solid #fff; */
   display: block;
   overflow: hidden;
   text-align: center;
@@ -2094,3 +2094,11 @@ iframe {
 h2 .primary-color{
 color: #d4143d;
 }
+
+
+/* =================Client section ====================
+======================================================= */
+
+/* .client-sec{
+  margin-bottom: 5%;
+} */
